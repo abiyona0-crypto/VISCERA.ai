@@ -1,71 +1,56 @@
-# VISCERA AI 🎨
+# 🌸 VISCERA AI
 
-**An AI-powered visual design studio that transforms imagination into visual concepts.**
+*A creative AI-powered design concept project.*
 
-## About the Project
+VISCERA AI is a web project designed to explore how artificial intelligence can help people turn creative ideas into visual design concepts. The project focuses on aesthetics, moods, color palettes, and creative inspiration.
 
-VISCERA AI is a creative design assistant designed to help students, beginners, and creators turn simple ideas into visually appealing designs.
+## ✨ Features
 
-Users can describe their creative vision and receive AI-generated design recommendations, coordinated color palettes, typography suggestions, and layout ideas. The application aims to make visual design more accessible to people without professional design experience.
+* 🎨 Explore creative design concepts
+* 🌸 Experiment with different moods and aesthetics
+* 🎨 Work with custom color palettes
+* 💻 A visually designed, interactive web interface
+* 🤖 AI integration — currently a work in progress
 
-## Problem Statement
+## 🚧 Current Status
 
-Many people struggle to transform their ideas into visually consistent designs because they lack experience in choosing suitable colors, typography, layouts, and visual styles.
+**This project is still under development.**
 
-VISCERA AI addresses this problem by combining generative AI with interactive design tools to help users explore, customize, and refine their creative ideas.
+The website interface has been built, but the live AI generation feature is not fully functional yet. The project currently uses demo concepts when live AI generation fails.
 
-## Features
+I'm still a beginner in programming, and building VISCERA AI has been a learning experience involving Python, APIs, backend development, and connecting AI models to a website.
 
-* **AI Design Assistant:** Transform natural-language prompts into structured design concepts.
-* **Color Palette Generator:** Generate coordinated colors with HEX codes.
-* **Typography Recommendations:** Suggest suitable heading and body-text styles.
-* **Interactive Design Studio:** Customize and refine design concepts.
-* **Poster Preview:** Preview visual designs and export supported designs as images.
-* **Creative Gallery:** Explore example designs and styles.
-* **Demo Mode:** Explore sample results when live AI functionality is unavailable.
+I'm continuing to learn, experiment, and improve the project as I develop my skills.
 
-*Features may vary depending on the current implementation.*
+## 🛠️ Tech Stack
 
-## Technology Stack
+* **Python** — backend development
+* **FastAPI** — API and backend framework
+* **HTML, CSS, and JavaScript** — web interface
+* **Gemini API** — attempted AI integration
 
-* Frontend: React
-* Backend: Python and FastAPI
-* AI: Large language model API
-* Styling: CSS
-* Version Control: Git and GitHub
+## 🎯 Why I Built This
 
-## Getting Started
+I wanted to challenge myself by building something more ambitious than a basic beginner project. VISCERA AI is an opportunity for me to explore the connection between creative design and artificial intelligence while learning how different parts of a web application work together.
 
-1. Clone or download this repository.
-2. Install the dependencies listed in the project.
-3. Configure the required environment variables.
-4. Start the FastAPI backend and React frontend using the project-specific instructions.
-5. Open the local website in your browser.
+## 📚 What I'm Learning
 
-Refer to the project files and dependency documentation for the exact setup commands.
+* Working with APIs and API keys
+* Building backend routes with Python
+* Connecting a frontend to a backend
+* Debugging errors and troubleshooting integrations
+* Using GitHub to document and share my work
 
-## AI Integration and Security
+## 🌱 Future Improvements
 
-The application is designed to use an AI language model to interpret creative prompts and generate design recommendations.
+* Get live AI generation working reliably
+* Improve error handling and API integration
+* Expand the available design styles and palettes
+* Add more interactive design features
+* Continue improving the user experience
 
-Configure API credentials securely through environment variables or an appropriate secrets manager. Never commit API keys or passwords to the repository.
+## 💗 A Note From the Developer
 
-Demo results should be clearly identified as sample outputs rather than live AI-generated results.
+This is a learning project, and it isn't perfect yet. I'm sharing it because I believe learning to build something also means learning to work through the parts that don't work on the first try.
 
-## Project Goals
-
-* Make visual design more accessible to beginners.
-* Encourage creative experimentation.
-* Explore practical applications of generative AI.
-* Build an interactive AI-powered creative tool.
-
-## Future Improvements
-
-* Real AI image generation.
-* More advanced poster and moodboard customization.
-* Additional design templates and styles.
-* Saving and revisiting previous designs.
-
-## Author
-
-Created as an AI + Creativity project to explore the intersection of artificial intelligence and visual design.
+**Built with curiosity, creativity, and a willingness to learn.** 🌸
